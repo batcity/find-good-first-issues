@@ -1,6 +1,6 @@
 # find-good-first-issues
 
-# Python Script to find good first issues
+## Python Script to find good first issues
 
 This Python script utilizes the `curl` command to make a GitHub API request for retrieving open issues labeled as "good first issue" from a specified repository.
 
